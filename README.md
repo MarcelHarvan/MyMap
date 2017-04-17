@@ -20,7 +20,7 @@ A simple Android app showing your current position.
  ```
  
  - create a GPSTracker class extends Service implements LocationListener.
- Neccesary aditional Override methods: 
+ Necessary additional Override methods:
  
   ```java
   @Override
