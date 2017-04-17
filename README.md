@@ -1,5 +1,6 @@
 # MyMap
 A simple Android app showing your current position.
+[![MyWeb](http://marcelharvan.com)]
 
 ## Requirements
 - Android Studio 2.3.1 or grater
@@ -19,8 +20,8 @@ A simple Android app showing your current position.
  <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">Your API!!</string>
  ```
  
- - create a GPSTracker class extends Service implements LocationListener
- neccesary aditional Override methods such as: 
+ - create a GPSTracker class extends Service implements LocationListener.
+ Neccesary aditional Override methods: 
  
   ```java
   @Override
