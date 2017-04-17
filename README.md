@@ -6,10 +6,10 @@ I used an Android Studio in its version 2.3.1
 AndroindManifest.xml
 <br>
 necessary to add: 
-<br>
+```
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-<br>
+```
 
 
 
