@@ -38,8 +38,11 @@ A simple Android app showing your current position.
 
     @Override
     public void onLocationChanged(Location location) {}
+    
+    // all the code is in GPSTracker.java
  ```
-
+- do some changes in MapsActivity.java
+- run app
 
 
 
