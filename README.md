@@ -1,7 +1,5 @@
-# MyMap
+# MyMap [![MyWeb](http://marcelharvan.com/images/glyphicons-341-globe.png)](http://marcelharvan.com)
 A simple Android app showing your current position.
-
-[![MyWeb](http://marcelharvan.com/images/glyphicons-341-globe.png)](http://marcelharvan.com)
 
 ## Requirements
 - Android Studio 2.3.1 or grater
